@@ -32,13 +32,13 @@ int main(){
     printf("Pontos turísticos: \n");
     scanf("%d", &pontos_turisticos);
 
-    printf("São Paulo: %s", estado );
-    printf("B3: %s", codigo_da_carta);
-    printf("Francisco Morato: %s", nome_da_cidade);
-    printf("165.139: %d", populacao);
-    printf("49.164 km²: %f", area);
-    printf(" 10.439,01: %f", pib);
-    printf("12: %d", pontos_turisticos);
+    printf("São Paulo: %s\n", estado );
+    printf("B3: %s\n", codigo_da_carta);
+    printf("Francisco Morato: %s\n", nome_da_cidade);
+    printf("165.139: %d\n", populacao);
+    printf("49.164 km²: %f\n", area);
+    printf(" 10.439,01: %f\n", pib);
+    printf("12: %d\n", pontos_turisticos);
 
     return 0;
 
